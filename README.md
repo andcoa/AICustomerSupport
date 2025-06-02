@@ -18,6 +18,9 @@ Automate customer support triage using AI to classify incoming emails and genera
 - **OpenAI Embeddings**: Used to convert knowledge base documents into high-dimensional vectors for semantic retrieval within Pinecone.
 
 ## Steps  
+
+![image](https://github.com/user-attachments/assets/af4c7f5a-012e-494a-ad69-5ec60f906b70)
+
 1. **Trigger Setup**  
    - Configured Gmail trigger in n8n to listen for new incoming support emails.
 
