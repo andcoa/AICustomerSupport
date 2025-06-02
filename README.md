@@ -36,6 +36,9 @@ Automate customer support triage using AI to classify incoming emails and genera
    - Customer support documents pre-embedded using **OpenAI Embeddings**
    - On each query, Pinecone returns relevant context via semantic search.
 
+![image](https://github.com/user-attachments/assets/329075d4-0106-4b3f-859c-424ca924b167)
+
+
 5. **AI Agent Response**  
    - Agent powered by **OpenRouter Chat** uses query, Pinecone results, memory, and tools to craft a high-quality response.
 
