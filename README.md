@@ -41,3 +41,8 @@ Automate customer support triage using AI to classify incoming emails and genera
 
 6. **Scalable Output**  
    - Response can be integrated with downstream steps like auto-reply, Slack notification, or CRM ticketing systems.
+  
+Example: Sent myself an email inquiring about the pool policy and the workflow replied back:
+
+![image](https://github.com/user-attachments/assets/3917447a-73b1-4568-8634-c5ad9044d16b)
+
