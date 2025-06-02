@@ -11,11 +11,11 @@ Automate customer support triage using AI to classify incoming emails and genera
 - **Workflow Optimization**: Designed a conditional logic system to route only relevant inquiries to the AI agent, minimizing false positives.
 
 ## Tools Used  
-- **Gmail**: Used as the initial email source, automatically triggering the workflow when a new support message is received.  
-- **n8n**: Open-source automation platform used to orchestrate the entire workflow, from trigger to classification to AI response.  
-- **OpenRouter**: Provides both the chat model (AI agent) and classification model used to triage and respond to emails with advanced LLM capabilities.  
-- **Pinecone Vector Store**: A managed vector database used to perform fast similarity searches on embedded customer support documents.  
-- **OpenAI Embeddings**: Used to convert knowledge base documents into high-dimensional vectors for semantic retrieval within Pinecone.
+- **Email Integration**: Automated Gmail triggers to capture support emails in real time.
+- **AI Classification**: Implemented AI to accurately distinguish support from non-support queries.
+- **RAG Implementation**: Applied Pinecone and OpenAI embeddings to improve response accuracy.
+- **AI Agent Orchestration**: Deployed an AI agent with memory and tool integration for contextual replies.
+- **Workflow Optimization**: Designed conditional logic to route relevant inquiries and minimize false positives.
 
 ## Steps  
 
