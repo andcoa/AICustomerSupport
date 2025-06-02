@@ -19,7 +19,7 @@ Automate customer support triage using AI to classify incoming emails and genera
 
 ## Steps  
 
-![image](https://github.com/user-attachments/assets/af4c7f5a-012e-494a-ad69-5ec60f906b70)
+![image](https://github.com/user-attachments/assets/f334b8c0-4278-4363-b2bc-aa62e1870a92)
 
 1. **Trigger Setup**  
    - Configured Gmail trigger in n8n to listen for new incoming support emails.
